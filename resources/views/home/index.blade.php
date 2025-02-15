@@ -179,7 +179,7 @@
   <div class="portfolio-us mt-5">
     <div class="container">
       <div class="title-container">
-        <h2 class="text-center fw-bold">PORTFOLIO</h2>
+        <h2 class="text-center fw-bold">CERITA</h2>
       </div>
       <div class="row mt-4">
         <div class="col-md-12 d-flex justify-content-center">
